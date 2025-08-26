@@ -1,7 +1,4 @@
 <h1 align="center">Hi 👋, I'm Vio Salman</h1>
-<h3 align="center">A frontend developer who enjoys learning by building small projects.</h3>
-
-- 🔭 I’m currently working on **E-Canteen — A digital canteen app for easy ordering and queue management**
 
 - 📫 How to reach me **viosalmankafiyan122@gmail.com**
 
